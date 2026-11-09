@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xjuanfxx/yt-loudness-unchained/raw/main/yt-loudness-unchained.user.js"><img src="https://img.shields.io/badge/Install-userscript-F38BA8?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1E1E2E" alt="Install userscript"></a>
+  <a href="https://raw.githubusercontent.com/xjuanfxx/yt-loudness-unchained/main/yt-loudness-unchained.user.js"><img src="https://img.shields.io/badge/Install-userscript-F38BA8?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1E1E2E" alt="Install userscript"></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ That's fine for casual watching. It's not fine if you **make music** and want to
 
 1. Get a userscript manager:
    [**ScriptCat**](https://scriptcat.org) · [**Tampermonkey**](https://www.tampermonkey.net) · [**Violentmonkey**](https://violentmonkey.github.io)
-2. Click **[Install userscript](https://github.com/xjuanfxx/yt-loudness-unchained/raw/main/yt-loudness-unchained.user.js)** and confirm in your manager.
+2. Click **[Install userscript](https://raw.githubusercontent.com/xjuanfxx/yt-loudness-unchained/main/yt-loudness-unchained.user.js)** and confirm in your manager.
 3. Reload YouTube. Done.
 
 Your manager will check this repo for updates on its own.

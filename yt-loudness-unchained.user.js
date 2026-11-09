@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Loudness Unchained
 // @namespace    yt-loudness-unchained
-// @version      3.2
+// @version      1.0
 // @description  Kills YouTube's volume normalization. Hear the original master, as loud as it was made.
 // @author       Claude
 // @icon         data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmY0ZDRkIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjY2MwMDAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9InVybCgjZykiLz48cGF0aCBkPSJNMTIgMjVoOGwxMS05djMybC0xMS05aC04eiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0zNyAyNGExMSAxMSAwIDAgMSAwIDE2TTQyIDE4YTE5IDE5IDAgMCAxIDAgMjhNNDcgMTJhMjcgMjcgMCAwIDEgMCA0MCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPgo=
@@ -12,8 +12,8 @@
 // @run-at       document-start
 // @homepageURL  https://github.com/xjuanfxx/yt-loudness-unchained
 // @supportURL   https://github.com/xjuanfxx/yt-loudness-unchained/issues
-// @updateURL    https://github.com/xjuanfxx/yt-loudness-unchained/raw/main/yt-loudness-unchained.user.js
-// @downloadURL  https://github.com/xjuanfxx/yt-loudness-unchained/raw/main/yt-loudness-unchained.user.js
+// @updateURL    https://raw.githubusercontent.com/xjuanfxx/yt-loudness-unchained/main/yt-loudness-unchained.user.js
+// @downloadURL  https://raw.githubusercontent.com/xjuanfxx/yt-loudness-unchained/main/yt-loudness-unchained.user.js
 // @license      MIT
 // ==/UserScript==
 
