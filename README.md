@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="112" alt="YouTube Loudness Unchained logo">
+  <img src="assets/logo.png" width="112" alt="YouTube Loudness Unchained logo">
 </p>
 
 <h1 align="center">YouTube Loudness Unchained</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/xjuanfxx/yt-loudness-unchained/main/yt-loudness-unchained.user.js"><img src="https://img.shields.io/badge/Install-userscript-F38BA8?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1E1E2E" alt="Install userscript"></a>
+  <a href="https://raw.githubusercontent.com/xjuanfxx/yt-loudness-unchained/main/yt-loudness-unchained.user.js"><img src="https://img.shields.io/badge/-Install%20userscript-F38BA8?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1E1E2E" alt="Install userscript"></a>
 </p>
 
 <p align="center">
